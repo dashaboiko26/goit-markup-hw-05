@@ -480,10 +480,14 @@ ul {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  color: #fff;
+  color: #ffffff;
   margin-bottom: 16px;
 }
 
+.footer-form {
+  display: flex;
+  gap: 24px;
+}
 .footer-label {
   border: 1px solid #fff;
   border-radius: 4px;
@@ -514,6 +518,7 @@ ul {
   letter-spacing: 0.04em;
   text-align: center;
   color: #fff;
+  cursor: pointer;
 }
 
 .footer-icon-form {
@@ -532,11 +537,11 @@ ul {
   pointer-events: none;
 }
 
-.is-open {
+/* .is-open {
   opacity: 1;
   pointer-events: auto;
   visibility: visible;
-}
+} */
 
 .modal {
   width: 408px;
