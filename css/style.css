@@ -582,6 +582,7 @@ ul {
 .close-btn:hover,
 .close-btn:focus {
   background-color: #404bbf;
+  border: none;
   fill: #ffffff;
 }
 
@@ -608,6 +609,10 @@ ul {
 
 .modal-form {
   margin-top: 16px;
+}
+
+.modal-name-box {
+  margin-bottom: 8px;
 }
 
 .modal-label {
@@ -753,6 +758,4 @@ ul {
 
 .modal-input-box {
   margin-bottom: 24px;
-  margin-bottom: 8px;
-  margin-bottom: 16px;
 }
