@@ -682,6 +682,7 @@ ul {
 .submit-btn:focus,
 .submit-btn:active {
   background-color: #404bbf;
+  border: none;
 }
 
 .modal-text {
