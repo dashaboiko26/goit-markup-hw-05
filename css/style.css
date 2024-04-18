@@ -725,8 +725,8 @@ ul {
   letter-spacing: 0.04em;
   color: #8e8f99;
   margin-top: 16px;
-  display: flex;
-  align-items: center;
+  /* display: flex; */
+  /* align-items: center; */
 }
 
 .policy-text {
