@@ -501,7 +501,7 @@ ul {
   letter-spacing: 0.04em;
   color: #fff;
   padding-left: 16px;
-  margin-right: 24px;
+  /* margin-right: 24px; */
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
@@ -598,7 +598,7 @@ ul {
 }
 
 .close-btn-icon:hover,
-.close-btn-icon:active {
+.close-btn-icon:focus {
   fill: #ffffff;
 }
 
